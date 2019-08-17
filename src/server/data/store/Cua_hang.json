@@ -1,0 +1,93 @@
+{
+  "Ten": "Cửa hàng Tivi PET",
+  "Ma_so": "PET",
+  "Dien_thoai": "84-28555722",
+  "Dia_chi": "112 Nguyễn văn Cừ,Q.5",
+  "Mail": "nthPET@gmail.com",
+  "Danh_sach_Nhom_Tivi": [
+    {
+      "Ten": "Sony",
+      "Ma_so": "SONY"
+    },
+    {
+      "Ten": "LG",
+      "Ma_so": "LG"
+    },
+    {
+      "Ten": "Samsung",
+      "Ma_so": "SAMSUNG"
+    },
+    {
+      "Ten": "Khác",
+      "Ma_so": "KHAC"
+    }
+  ],
+  "Danh_sach_Nhan_vien_Nhap_hang": [
+    {
+      "Ho_ten": "Nguyễn thị bé Nhỏ",
+      "Ma_so": "NV_1",
+      "Ten_Dang_nhap": "NV_1",
+      "Mat_khau": "NV_1"
+    }
+  ],
+  "Danh_sach_Nhan_vien_Ban_hang": [
+    {
+      "Ho_ten": "Tô thị bé Bé",
+      "Ma_so": "NV_2",
+      "Ten_Dang_nhap": "NV_2",
+      "Mat_khau": "NV_2",
+      "Danh_sach_Nhom_Tivi": [
+        {
+          "Ten": "Sony",
+          "Ma_so": "SONY"
+        },
+        {
+          "Ten": "LG",
+          "Ma_so": "LG"
+        }
+      ]
+    },
+    {
+      "Ho_ten": "Nguyên văn bé Xíu",
+      "Ma_so": "NV_3",
+      "Ten_Dang_nhap": "NV_3",
+      "Mat_khau": "NV_3",
+      "Danh_sach_Nhom_Tivi": [
+        {
+          "Ten": "Samsung",
+          "Ma_so": "SAMSUNG"
+        },
+        {
+          "Ten": "Khác",
+          "Ma_so": "KHAC"
+        }
+      ]
+    }
+  ],
+
+  "Danh_sach_Quan_ly_Nhap_hang": [
+    {
+      "Ho_ten": "Trần văn bé Lớn",
+      "Ma_so": "NV_4",
+      "Ten_Dang_nhap": "QL_1",
+      "Mat_khau": "QL_1"
+    }
+  ],
+  "Danh_sach_Quan_ly_Ban_hang": [
+    {
+      "Ho_ten": "Trần thị bé Cao",
+      "Ma_so": "NV_5",
+      "Ten_Dang_nhap": "QL_2",
+      "Mat_khau": "QL_2"
+    }
+  ],
+  "Danh_sach_Quan_ly_Cua_hang": [
+    {
+      "Ho_ten": "Lê văn sáng Rực",
+      "Ma_so": "NV_6",
+      "Ten_Dang_nhap": "QL",
+      "Mat_khau": "QL"
+    }
+  ]
+
+}
